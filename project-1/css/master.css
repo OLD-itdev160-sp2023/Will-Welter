@@ -1,0 +1,23 @@
+body {
+font-family: 'Freckle Face', cursive;
+color: #555;
+background: url("cheesebr.jpg");
+}
+
+h1 {
+    color: #81599F;
+    font-family: 'Rubik Beastly', cursive;
+}
+
+h2 {
+    color: #36D6E7;
+}
+
+h3 {
+    
+    color: #555;
+}
+
+img {
+    height: 200px;
+}
